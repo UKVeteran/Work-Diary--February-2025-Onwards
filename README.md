@@ -2,7 +2,7 @@
 
 ## 26 February 2025
 
-
+<a href="https://www.kaggle.com/code/jmashfaque/youtube-channels-in-germany-eda-predictions">YouTube Channels in Germany - EDA + Predictions</a>  <br>
 
 ## 27 February 2025
 
