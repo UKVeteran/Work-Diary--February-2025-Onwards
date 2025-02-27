@@ -1,4 +1,4 @@
-# ⚓ Work-Diary---February-2025-Onwards ⚓
+# ⚓ Work Diary - February 2025 Onwards ⚓
 
 ## 27 February 2025
 
