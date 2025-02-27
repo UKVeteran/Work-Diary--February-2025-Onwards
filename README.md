@@ -12,4 +12,4 @@
 <a href="https://siliconangle.com/2025/01/30/rad-ai-raises-60m-help-radiologists-improve-accuracy-patient-care/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_423">Rad AI raises $60M to help radiologists improve accuracy of patient care</a> 
 
 ### Notebook(s)
-<a href="  "> Heart Failure Prediction Kaggle Notebook </a> 
+<a href="https://www.kaggle.com/code/jmashfaque/heart-failure-prediction"> Heart Failure Prediction Kaggle Notebook </a> 
