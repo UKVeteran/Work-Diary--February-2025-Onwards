@@ -31,3 +31,5 @@ Made Simple Pygames like Dodge The Objects "Dodge.exe" using Spyder
 Notes Added on New Identities Involving Pi
 
 <a href="https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_429">Google DeepMind’s new AI models help robots perform physical tasks, even without training</a>  <br>
+
+Tic Tac Toe made with Tkinter and Pyinstaller
