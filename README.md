@@ -28,6 +28,6 @@ Made Simple Pygames like Dodge The Objects "Dodge.exe" using Spyder
 <a href="https://www.kaggle.com/code/jmashfaque/liver-disease-detection-ml-algorithms?scriptVersionId=227393654"> Liver Disease Detection Kaggle Notebook </a> 
 
 ## 14 March 2025 - Pi Day
-Notes Added
+Notes Added on New Identities Involving Pi
 
 <a href="https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_429">Google DeepMind’s new AI models help robots perform physical tasks, even without training</a>  <br>
