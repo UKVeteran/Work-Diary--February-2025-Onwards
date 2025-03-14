@@ -18,7 +18,7 @@
 Basic Hello Library
 
 ## 11 March 2025
-Research into Quantum Computing and Machine Learning
+Research into Quantum Computing and Machine Learning - See Certifications
 
 ## 12 March 2025
 Made Simple Pygames like Dodge The Objects "Dodge.exe" using Spyder
