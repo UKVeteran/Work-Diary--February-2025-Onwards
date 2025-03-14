@@ -26,3 +26,6 @@ Made Simple Pygames like Dodge The Objects "Dodge.exe" using Spyder
 ## 13 March 2025
 ### Notebook(s)
 <a href="https://www.kaggle.com/code/jmashfaque/liver-disease-detection-ml-algorithms?scriptVersionId=227393654"> Liver Disease Detection Kaggle Notebook </a> 
+
+## 14 March 2025 - Pi Day
+Notes Added
