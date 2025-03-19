@@ -36,3 +36,5 @@ Tic Tac Toe made with Tkinter and Pyinstaller
 
 Snake made with Tkinter and Pyinstaller
 
+## 19 March 2025
+Data Scrapper - Indeed Jobs
