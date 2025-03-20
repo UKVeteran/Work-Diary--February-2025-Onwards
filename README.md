@@ -43,4 +43,4 @@ Data Scrapper - Indeed Jobs
 
 Structural Protein Sequences Repo
 
-Color Catcher Game App
+Color Catcher Game App with PyGame and Tkinter
