@@ -41,4 +41,4 @@ Data Scrapper - Indeed Jobs
 
 ## 20 March 2025
 
-Protein Structure Sequences Repo
+Structural Sequences Repo
