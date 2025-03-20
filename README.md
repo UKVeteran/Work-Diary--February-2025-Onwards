@@ -38,3 +38,7 @@ Snake made with Tkinter and Pyinstaller
 
 ## 19 March 2025
 Data Scrapper - Indeed Jobs
+
+## 20 March 2025
+
+Protein Structure Sequences Dataset Analysis
