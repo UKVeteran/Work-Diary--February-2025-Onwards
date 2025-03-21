@@ -12,7 +12,7 @@ This is where I chronicle my journey through various projects, research, and dev
 #### 🗓 **21 March 2025**
 - 🎉 **Regression Visualization React App**  
   [Regression-Visualization-App-with-React-and-D3.js](https://github.com/jmashfaque/Regression-Visualization-App-with-React-and-D3.js)  
-  Dive into my first React app, designed to visualize regression models interactively! 🚀
+  Dive into my React app, designed to visualize regression models interactively! 🚀
 
 #### 🗓 **20 March 2025**
 - **Created a Repository for Structural Protein Sequences**  
