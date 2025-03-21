@@ -1,50 +1,64 @@
 # ⚓ Work Diary - February 2025 Onwards ⚓
 
-## 26 February 2025
+Welcome to my Work Diary! This is a chronological log of my projects, research, and developments. Feel free to explore my work and reach out with any thoughts or suggestions.
 
-<a href="https://www.kaggle.com/code/jmashfaque/youtube-channels-in-germany-eda-predictions">YouTube Channels in Germany - EDA + Predictions</a>  <br>
+---
 
-## 27 February 2025
+## 📅 **February 2025**
 
+### 🗓 **26 February 2025**
+- [YouTube Channels in Germany - EDA + Predictions (Kaggle)](https://www.kaggle.com/code/jmashfaque/youtube-channels-in-germany-eda-predictions)
 
-<a href="https://www.nature.com/articles/d41586-025-00531-3?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_426">Biggest-ever AI biology model writes DNA on demand</a>  <br>
-<a href="https://news.mit.edu/2025/can-deep-learning-transform-heart-failure-prevention-0210?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_425">Can deep learning transform heart failure prevention?</a> <br>
-<a href="https://siliconangle.com/2025/01/30/rad-ai-raises-60m-help-radiologists-improve-accuracy-patient-care/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_423">Rad AI raises $60M to help radiologists improve accuracy of patient care</a> 
+### 🗓 **27 February 2025**
+#### 📖 **Articles of Interest:**
+- [Biggest-ever AI Biology Model Writes DNA on Demand (Nature)](https://www.nature.com/articles/d41586-025-00531-3)
+- [Can Deep Learning Transform Heart Failure Prevention? (MIT News)](https://news.mit.edu/2025/can-deep-learning-transform-heart-failure-prevention-0210)
+- [Rad AI Raises $60M to Help Radiologists Improve Accuracy of Patient Care (SiliconANGLE)](https://siliconangle.com/2025/01/30/rad-ai-raises-60m-help-radiologists-improve-accuracy-patient-care)
 
-### Notebook(s)
-<a href="https://www.kaggle.com/code/jmashfaque/heart-failure-prediction"> Heart Failure Prediction Kaggle Notebook </a> 
+#### 📊 **Notebook:**
+- [Heart Failure Prediction (Kaggle)](https://www.kaggle.com/code/jmashfaque/heart-failure-prediction)
 
-### Library
-Basic Hello Library
+#### 📦 **Library:**
+- Basic Hello Library (Coming Soon)
 
-## 11 March 2025
-Research into Quantum Computing and Machine Learning - See Certifications
+---
 
-## 12 March 2025
-Made Simple Pygames like Dodge The Objects "Dodge.exe" using Spyder
+## 📅 **March 2025**
 
-## 13 March 2025
-### Notebook(s)
-<a href="https://www.kaggle.com/code/jmashfaque/liver-disease-detection-ml-algorithms?scriptVersionId=227393654"> Liver Disease Detection Kaggle Notebook </a> 
+### 🗓 **11 March 2025**
+- Research into Quantum Computing and Machine Learning — See Certifications
 
-## 14 March 2025 - Pi Day
-Notes Added on New Identities Involving Pi
+### 🗓 **12 March 2025**
+- Created a Simple PyGame: **Dodge The Objects** ("Dodge.exe") using Spyder
 
-<a href="https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_429">Google DeepMind’s new AI models help robots perform physical tasks, even without training</a>  <br>
+### 🗓 **13 March 2025**
+#### 📊 **Notebook:**
+- [Liver Disease Detection using ML Algorithms (Kaggle)](https://www.kaggle.com/code/jmashfaque/liver-disease-detection-ml-algorithms?scriptVersionId=227393654)
 
-Tic Tac Toe made with Tkinter and Pyinstaller
+### 🗓 **14 March 2025 - Pi Day**
+- Added Notes on New Identities Involving Pi
 
-Snake made with Tkinter and Pyinstaller
+#### 📖 **Article of Interest:**
+- [Google DeepMind's AI Models for Robot Physical Tasks (The Verge)](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models)
 
-## 19 March 2025
-Data Scrapper - Indeed Jobs
+#### 🕹 **Games Made:**
+- **Tic Tac Toe** using Tkinter and Pyinstaller
+- **Snake** using Tkinter and Pyinstaller
 
-## 20 March 2025
+### 🗓 **19 March 2025**
+- Developed a Data Scraper for **Indeed Jobs**
 
-Structural Protein Sequences Repo
+### 🗓 **20 March 2025**
+- Created a Repository for **Structural Protein Sequences**
+- Built **Color Catcher Game** using PyGame and Tkinter
 
-Color Catcher Game App with PyGame and Tkinter
+### 🗓 **21 March 2025**
+- Published **My Very First React App**
 
-## 21 March 2025
+---
 
-My Very First React App
+## 💬 **Contact Me**
+- **GitHub:** [jmashfaque](https://github.com/jmashfaque)
+
+Thanks for stopping by! 😊
+
