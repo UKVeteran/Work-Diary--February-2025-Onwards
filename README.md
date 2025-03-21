@@ -57,8 +57,3 @@ Welcome to my Work Diary! This is a chronological log of my projects, research, 
 
 ---
 
-## 💬 **Contact Me**
-- **GitHub:** [jmashfaque](https://github.com/jmashfaque)
-
-Thanks for stopping by! 😊
-
