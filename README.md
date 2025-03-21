@@ -77,8 +77,3 @@ This is where I chronicle my journey through various projects, research, and dev
 - **Snake Game** (using Tkinter and Pyinstaller)
 
 ---
-
-## 📜 **Want to Contribute?**
-Feel free to **open issues**, **suggest improvements**, or **contribute** directly to the repositories linked above. Your feedback is always welcome! 💬  
-Let’s collaborate and create something amazing together! 🌍
----
